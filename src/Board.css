@@ -1,0 +1,9 @@
+.Board {
+  margin: auto;
+}
+
+.Board-table {
+  margin: auto;
+  border-color: black;
+  border-style: solid;
+}
